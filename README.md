@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MaxterDev
+- 👀 I’m interested in AI - Python Development
+- 🌱 I’m currently learning AI - Python
+- 📫 How to reach me mxrosario7@gmail.com
